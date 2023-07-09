@@ -17,7 +17,6 @@ body {
 .filter-button:hover {
     color: var(--white-color);
     background-color: #404bbf;
-    border: 1px solid var(--cloud-color);
 }
 
 .filter-button {
@@ -101,11 +100,15 @@ body {
 }
 
 
-.blok-title {
+.block-title {
     font-family: "Roboto", sans-serif;
     font-size: 36px;
     font-weight: bold;
-    letter-spacing: 0.02px;
+    letter-spacing: 0.02em;
+    line-height: 1.11;
+    text-align: center;
+    text-transform: capitalize;
+    color: #2e2f42;
 
 }
 
@@ -123,4 +126,9 @@ body {
 
 .footer .logo span {
     color: var(--cloud-color);
+}
+
+.footer-text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
