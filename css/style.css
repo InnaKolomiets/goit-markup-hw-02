@@ -13,12 +13,10 @@ body {
     color: #434455;
     background-color: var(--white-color);
 }
-.hidden {
-    display: none;
-}
+
 .filter-button:hover {
     color: var(--white-color);
-    background-color: var(--ocean-color);
+    background-color: #404bbf;
     border: 1px solid var(--cloud-color);
 }
 
@@ -34,9 +32,15 @@ body {
     letter-spacing: 0.04px;
 }
 
+.home-link {
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
 .logo {
     color: var(--iris-color);
-    font-family: "Releway", sans-serif;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 800;
     text-transform: uppercase;
@@ -63,8 +67,8 @@ body {
 
 .contacts a {
     color: var(--main-text-color);
-    font-style: normal;
     text-decoration: none;
+    font-style: normal;
 }
 
 .action {
@@ -78,8 +82,6 @@ body {
     font-size: 12px;
     line-height: 24px;
     letter-spacing: 0.4px;
-    width: 169px;
-    height: 56px;
 }
 
 .title {
