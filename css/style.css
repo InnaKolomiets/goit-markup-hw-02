@@ -20,7 +20,6 @@ body {
 }
 
 .filter-button {
-    height: 48px;
     color: var(--iris-color);
     background-color: var(--cornflower-color);
     border: 1px solid var(--cloud-color);
@@ -32,9 +31,14 @@ body {
 }
 
 .home-link {
+    color: #404bbf;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+
+.home-link :hover {
+    color: #404bbf;
 }
 
 .logo {
@@ -64,7 +68,11 @@ body {
     text-decoration: none;
 }
 
-.contacts a {
+ .info-class {
+    font-style: normal;
+ }
+
+.contacts-list a {
     color: var(--main-text-color);
     text-decoration: none;
     font-style: normal;
