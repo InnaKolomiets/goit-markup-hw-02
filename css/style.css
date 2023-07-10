@@ -128,6 +128,9 @@ body {
     line-height: 24px;
 }
 
+.people {
+    background-color: var(--cloud-color);
+}
 
 .block-title {
     font-family: "Roboto", sans-serif;
@@ -138,8 +141,6 @@ body {
     text-align: center;
     text-transform: capitalize;
     color: var(--navy-blue-color);
-
-
 }
 
 .action h1 {
