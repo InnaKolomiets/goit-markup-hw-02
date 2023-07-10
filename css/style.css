@@ -11,7 +11,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    color: #434455;
+    color: var(--contact-color);
     background-color: var(--white-color);
 }
 
@@ -73,10 +73,6 @@ body {
     color: var(--contact-color);
     line-height: 1.5;
     letter-spacing: 0.02em;
-}
-
-.info-class {
-    color: var(--contact-color);
 }
 
 .contact-link:hover, .contact-link:focus {
