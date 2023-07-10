@@ -32,11 +32,12 @@ body {
     cursor: pointer;
 }
 
-.list-link {
+.list-link link {
     color: var(--ocean-color);
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
+
 }
 
 .first-link {
