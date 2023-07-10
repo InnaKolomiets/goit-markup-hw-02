@@ -61,7 +61,7 @@ body {
   list-style-type: none;
 }
 
-.contact-link {
+.contact-link link {
     color: var(--contact-color);
     line-height: 1.5;
     letter-spacing: 0.02em;
