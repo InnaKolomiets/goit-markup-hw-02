@@ -39,6 +39,10 @@ body {
     letter-spacing: 0.02em;
 }
 
+.first-link {
+    color: var(--contact-color);
+}
+
 .list-link:hover, .list-link:focus {
     color: var(--ocean-color);
 }
