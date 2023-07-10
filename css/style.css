@@ -17,7 +17,7 @@ body {
 
 .filter-button:hover {
     color: var(--white-color);
-    background-color: #404bbf;
+    background-color: var(--ocean-color);
 }
 
 .filter-button {
@@ -32,7 +32,7 @@ body {
 }
 
 .list-link {
-    color: #404bbf;
+    color: var(--ocean-color);
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
