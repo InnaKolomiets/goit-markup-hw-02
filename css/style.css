@@ -146,6 +146,11 @@ body {
     background-color: var(--cloud-color);
 }
 
+.people-item {
+    background-color: var(--white-color);
+    
+}
+
 .block-title {
     font-family: "Roboto", sans-serif;
     font-size: 36px;
