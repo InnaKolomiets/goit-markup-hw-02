@@ -22,7 +22,7 @@ body {
 
 .filter-button {
     color: var(--iris-color);
-    background-color: var(--cornflower-color);
+    background-color: var(--cloud-color);
     border: 1px solid var(--cloud-color);
     margin-right: 24px;
     font-size: 16px;
