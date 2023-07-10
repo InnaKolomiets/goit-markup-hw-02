@@ -137,7 +137,7 @@ body {
     color: var(--main-text-color);
 }
 
-.our-services {
+.list-text {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
