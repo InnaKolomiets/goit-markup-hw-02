@@ -67,13 +67,16 @@ body {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--contact-color);
 }
 
 .contact-link {
     color: var(--contact-color);
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+
+.info-class {
+    color: var(--contact-color);
 }
 
 .contact-link:hover, .contact-link:focus {
