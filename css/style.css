@@ -15,7 +15,7 @@ body {
     background-color: var(--white-color);
 }
 
-.filter-button:hover {
+.filter-button:hover, .filter-button:focus {
     color: var(--white-color);
     background-color: var(--ocean-color);
 }
@@ -27,8 +27,9 @@ body {
     margin-right: 24px;
     font-size: 16px;
     font-weight: 500;
-    line-height: 16px;
-    letter-spacing: 0.04px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
 }
 
 .list-link {
