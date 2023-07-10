@@ -133,7 +133,7 @@ body {
     font-size: 20px;
     font-weight: 500;
     letter-spacing: 0.02em;
-    line-height: 24px;
+    line-height: 1.2;
     color: var(--main-text-color);
 }
 
@@ -148,7 +148,7 @@ body {
 
 .people-item {
     background-color: var(--white-color);
-    
+
 }
 
 .block-title {
