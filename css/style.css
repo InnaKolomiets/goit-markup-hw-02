@@ -60,6 +60,7 @@ body {
 }
 .link {
     text-decoration: none;
+    color: var(--main-text-color);
 }
 
 .list {
@@ -83,17 +84,11 @@ body {
     color: var(--navy-blue-color);
 }
 
-.list a {
-    color: var(--navy-blue-color);
-    text-decoration: none;
-}
-
  .info-class {
     font-style: normal;
  }
 
  .list a {
-    color: var(--main-text-color);
     text-decoration: none;
     font-style: normal;
 }
