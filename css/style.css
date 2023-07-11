@@ -58,6 +58,9 @@ body {
     text-decoration: none;
     letter-spacing: 0.03em;
 }
+.link.logo {
+    color: var(--iris-color);
+}
 .link {
     text-decoration: none;
     color: var(--main-text-color);
